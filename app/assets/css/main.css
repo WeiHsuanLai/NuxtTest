@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* 可以在這裡加入全域樣式 */
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}

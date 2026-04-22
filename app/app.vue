@@ -2,9 +2,12 @@
 </script>
 
 <template>
-  <div>
+  <div class="min-h-screen">
+    <AppNavbar />
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <div class="pt-16">
+      <NuxtPage />
+    </div>
   </div>
 </template>
 
