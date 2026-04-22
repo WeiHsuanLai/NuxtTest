@@ -23,9 +23,9 @@ defineProps<{
   >
     <div class="max-w-7xl mx-auto">
       <!-- 最上方大標題 -->
-      <div class="mb-8 font-bold text-2xl text-gray-900">
+      <!-- <div class="mb-8 font-bold text-2xl text-gray-900">
         {{ title }}
-      </div>
+      </div> -->
 
       <!-- 欄位佈局：由左至右 -->
       <div class="grid grid-cols-1 md:grid-cols-4 gap-12">
