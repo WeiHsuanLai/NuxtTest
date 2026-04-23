@@ -2,12 +2,15 @@
 const megaMenuContent = {
   '商店': [
     {
-      label: '軟體授權',
+      label: '選購',
       children: [
-        { label: '作業系統', to: '#' },
-        { label: '開發工具', to: '#' },
-        { label: '防毒軟體', to: '#' },
-        { label: '辦公軟體', to: '#' }
+        { label: '選購最新產品', to: '/shop' },
+        { label: 'Mac', to: '#' },
+        { label: 'iPad', to: '#' },
+        { label: 'Apple Watch', to: '#' },
+        { label: 'Apple Vision Pro', to: '#' },
+        { label: 'AirPods', to: '#' },
+        { label: '配件', to: '#' }
       ]
     },
     {
